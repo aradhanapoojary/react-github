@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactgit-dev-54915-authRole",
+      "UnauthRoleArn": "arn:aws:iam::759393787549:role/amplify-reactgit-dev-54915-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::759393787549:role/amplify-reactgit-dev-54915-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactgit-dev-54915-deployment",
+      "UnauthRoleName": "amplify-reactgit-dev-54915-unauthRole",
+      "StackName": "amplify-reactgit-dev-54915",
+      "StackId": "arn:aws:cloudformation:us-east-1:759393787549:stack/amplify-reactgit-dev-54915/19589300-053a-11ec-913d-0a4789a43cff",
+      "AmplifyAppId": "d3akyy0orom8mh"
+    },
+    "categories": {
+      "auth": {
+        "reactgitc0cd158e": {}
+      }
+    }
+  }
+}
